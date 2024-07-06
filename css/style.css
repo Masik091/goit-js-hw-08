@@ -23,7 +23,7 @@ ul {
     height: 100%;
 }
 .gallery-item a:hover {
-    cursor: url("/img/test.svg"), auto;
+    cursor: url("../img/test.svg"), auto;
 }
 .gallery-image{
     width: 100%;
